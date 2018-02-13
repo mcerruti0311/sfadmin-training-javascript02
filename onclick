@@ -1,0 +1,14 @@
+<html>
+
+  <head>
+    <title>onClick Demo</title>
+  <body>
+    <input
+      onclick="alert('You clicked the button!')"
+      type="button"
+      value="Click Me"
+    />
+  </body>
+  </head>
+  
+</html>
